@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40.1871mm" height="11.511mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4019 1151"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1584674024112">
+   <path class="fil0" d="M3946 0c20,0 38,8 51,21l0 0c14,14 22,32 22,52 0,20 -8,39 -22,52 -13,13 -31,21 -51,21 -21,0 -39,-8 -52,-21l0 0c-13,-13 -21,-32 -21,-52 0,-20 8,-38 21,-52l0 0c13,-13 31,-21 51,-21l1 0zm-29 109l13 0 0 -25 15 0 18 25 15 0 -20 -27c10,-3 17,-10 17,-22 0,-14 -9,-23 -26,-23l-32 0 0 72zm13 -36l0 -24 18 0c9,0 15,4 15,12 0,7 -6,12 -15,12l-18 0zm58 -42l0 0c-11,-11 -26,-18 -42,-18 -17,0 -32,7 -43,18 -11,11 -17,26 -17,42 0,17 6,32 17,42l0 0c11,11 26,18 43,18 16,0 31,-7 42,-18 11,-10 18,-25 18,-42 0,-16 -7,-31 -18,-42z"/>
+   <path class="fil0" d="M0 1150l279 0 0 -305 122 0 202 305 322 0 -240 -351c125,-53 207,-155 207,-308 0,-102 -30,-180 -89,-239 -68,-67 -174,-108 -328,-108l-475 0 0 1006zm279 -523l0 -241 182 0c93,0 151,40 151,119 0,76 -55,122 -150,122l-183 0z"/>
+   <polygon class="fil0" points="2031,1150 2847,1150 2847,913 2307,913 2307,753 2834,753 2834,534 2307,534 2307,381 2840,381 2840,144 2031,144 "/>
+   <polygon class="fil0" points="2884,1150 3197,1150 3377,847 3569,1150 3890,1150 3545,636 3875,144 3562,144 3383,427 3204,144 2884,144 3215,638 "/>
+   <path class="fil1" d="M1456 143c278,0 504,226 504,504 0,278 -226,504 -504,504l-1 0c-278,0 -503,-226 -503,-504 0,-278 225,-504 504,-504zm0 268c130,0 236,106 236,236 0,131 -106,236 -236,236 -131,0 -237,-105 -237,-236 0,-130 106,-236 237,-236z"/>
+  </g>
+ </g>
+</svg>
